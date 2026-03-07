@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "name": "logo",
+      "prompt": "A professional minimalist logo for {subject}, clean vector style on white background",
+      "size": "1024x1024",
+      "quality": "hd"
+    },
+    {
+      "name": "thumbnail",
+      "prompt": "A compelling thumbnail image for {subject}, vibrant colors, eye-catching composition",
+      "size": "1024x1024",
+      "quality": "standard"
+    },
+    {
+      "name": "hero-image",
+      "prompt": "A high-quality hero banner image depicting {subject}, cinematic lighting, wide aspect",
+      "size": "1792x1024",
+      "quality": "hd"
+    },
+    {
+      "name": "icon",
+      "prompt": "A simple flat icon representing {subject}, solid colors, minimal detail, centered",
+      "size": "1024x1024",
+      "quality": "standard"
+    },
+    {
+      "name": "concept-art",
+      "prompt": "Concept art of {subject}, detailed illustration, professional quality",
+      "size": "1024x1024",
+      "quality": "hd"
+    }
+  ]
+}

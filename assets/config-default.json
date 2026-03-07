@@ -1,0 +1,12 @@
+{
+  "provider": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "quality": "standard",
+  "style": "natural",
+  "outputDir": "./generated-images",
+  "format": "png",
+  "maxConcurrency": 3,
+  "retryAttempts": 3,
+  "retryDelay": 1000
+}

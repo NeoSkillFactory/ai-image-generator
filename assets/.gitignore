@@ -1,0 +1,5 @@
+.env
+*.key
+*.secret
+credentials.json
+generated-images/

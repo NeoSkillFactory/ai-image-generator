@@ -1,0 +1,14 @@
+{
+  "name": "ai-image-generator",
+  "version": "1.0.0",
+  "description": "Automatically generate, store, and manage images in OpenClaw workflows through direct API integration",
+  "main": "scripts/cli.js",
+  "scripts": {
+    "start": "node scripts/cli.js",
+    "test": "node --test tests/*.test.js",
+    "generate": "node scripts/cli.js generate",
+    "help": "node scripts/cli.js help"
+  },
+  "keywords": ["image-generation", "ai", "openai", "dall-e", "stable-diffusion", "openclaw"],
+  "license": "MIT"
+}
