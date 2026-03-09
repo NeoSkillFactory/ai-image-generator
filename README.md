@@ -2,20 +2,15 @@
 
 ![Audit](https://img.shields.io/badge/audit%3A%20PASS-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-orange)
 
-> A skill that integrates image generation APIs directly into OpenClaw workflows to automatically generate, store, and manage images without manual browser operat
+> Automatically generate, store, and manage images in OpenClaw workflows through direct API integration with OpenAI DALL-E, Stability AI, and Replicate.
 
 I need to understand what task I was working on before the timeout. Let me check the current workspace and context to see what needs to be completed.
 
-## OpenClaw Marketplace
+## GitHub
 
-This skill is available on [ClawHub](https://clawhub.ai) — the OpenClaw skill marketplace.
-Install it in any OpenClaw agent workspace with:
+Source code: [github.com/NeoSkillFactory/ai-image-generator](https://github.com/NeoSkillFactory/ai-image-generator)
 
-```bash
-clawhub install ai-image-generator
-```
-
-**Recommended price when commercial:** $19.99
+**Price suggestion:** $19.99
 
 ## License
 
