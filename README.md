@@ -10,8 +10,6 @@ I need to understand what task I was working on before the timeout. Let me check
 
 Source code: [github.com/NeoSkillFactory/ai-image-generator](https://github.com/NeoSkillFactory/ai-image-generator)
 
-**Price suggestion:** $19.99
-
 ## License
 
 MIT © NeoSkillFactory
